@@ -1,5 +1,7 @@
 # GERENCIADOR DE PROJETOS
 Gerenciador de projetos para auxiliar a organização de funções de trabalho e andamento de casos em um projeto
+#Video do Sistema
+[Video do Sistema Mostrando Funcionalidades](]https://www.linkedin.com/feed/update/urn:li:activity:7137161413961089024/)
 
 ## COMO INSTALAR PROJETO 
 - Clone o Projeto
